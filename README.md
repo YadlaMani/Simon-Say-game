@@ -21,4 +21,6 @@ This project aims to create a digital adaptation of the classic Simon Says game,
 
 ## Video Reference on how to play the game ?
 
+https://youtu.be/EWJ5uYwQJGU?si=rGjGn8J5MT3AFWVA
+
 
